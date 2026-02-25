@@ -1,0 +1,7 @@
+# Custom Whitelist
+# Supports plain text domains and regexes as follows
+# example.com
+# @@/REGEX/^proper-regex\.example\.com$
+
+  @@/REGEX/^.*\.swm\.de$
+  
