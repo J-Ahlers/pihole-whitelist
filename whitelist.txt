@@ -3,5 +3,7 @@
 # example.com
 # @@/REGEX/^proper-regex\.example\.com$
 
+meine.swm.de
+^.*\.swm\.de$
 @@/REGEX/^.*\.swm\.de$
   
