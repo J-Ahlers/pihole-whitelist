@@ -6,4 +6,4 @@
 meine.swm.de
 @@/REGEX/^.*\.swm\.de$
 Googleads.g.doubleclick.net # Needed for Pinterest
-  
+s.pinimg.com # Needed for Pinterest
